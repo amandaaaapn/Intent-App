@@ -889,7 +889,7 @@ e. Project Set Alarm = MainActivity.java (karena implicit intent jadi code untuk
 
 Berikut ini adalah video hasil RUN dari aplikasi yang sudah dibuat.
 
-
+https://github.com/amandaaaapn/Intent-App/assets/115678845/4ca78d07-4093-4f71-8456-f82f0d18c111
 
 # SELESAI, TERIMA KASIH
 
